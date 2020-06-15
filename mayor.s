@@ -1,5 +1,3 @@
-name "mayor"
-
 mov AX, 5
 mov BX, 5
 ;mov DX, AX
